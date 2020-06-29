@@ -1,4 +1,4 @@
-def hello_t
+
 
 yield and blocks code: def hello_t(array)
     if block_given?
